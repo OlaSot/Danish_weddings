@@ -1,0 +1,23 @@
+.blockWrapper {
+	font-family: var(--font-constantia);
+}
+
+.title {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.answer {
+	line-height: 2;
+}
+
+.leftOrRight_Left {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.leftOrRight_Right {
+	display: flex;
+	justify-content: flex-end;
+	text-align: end;
+}

@@ -1,0 +1,18 @@
+.rules_section {
+	margin-bottom: clamp(40px, 10vw, 90px);
+	font-family: var(--font-constantia);
+	font-size: var(--text-size-content);
+	display: flex;
+	flex-direction: column;
+	gap: clamp(10px, 6vw, 20px);
+}
+
+.rules_title {
+	font-weight: 700;
+	font-size: var(--text-size-content);
+}
+
+.series_list {
+	padding-left: 30px;
+	list-style: disc;
+}

@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "title": "Wedding in Denmark",
+    "description": "Wedding assistance in Denmark. Wedding planning in Denmark",
+    "keywords": "wedding"
+  },
+  "nav": {
+    "locale-selector": {
+      "message": "Choose a language."
+    },
+    "linksInNav": {
+      "main": "Main",
+      "serviceAndPrice": "Service and price",
+      "howToMarry": "How to marry?",
+      "contact": "Contacts"
+    }
+  },
+  "views": {
+    "homePage": {
+      "slogan": "Heart calls to Denmark: where dreams come true, and love is eternal!",
+      "weddingInDenmark": "Wedding in Denmark in 2 weeks",
+      "copenhagenWedding": "Wedding in Copenhagen",
+      "weddingOnTheBeach": "Beach wedding on Aero Island",
+      "weddingInformation": "Information about Your Wedding in Denmark",
+      "taxRecognition": "Tax recognition according to marriage in Denmark",
+      "taxRecognitionDescr": "An international marriage certificate obtained in Denmark upon marriage is legally and fiscally valid in Germany and throughout the EU from the date of marriage, just like a German marriage certificate. In most cases, the certificate must be apostilled.",
+      "nameChanging": "Name change upon marriage in Denmark",
+      "nameChangingDescr": "Upon marriage in Denmark, spouses can no longer adopt each other's surnames (since 01.04.2006), this is done after marriage in Germany or at the embassy of the country where the spouse has their residence permit, or in their home country.",
+      "importanceInternationalMarriage": "The importance of the international marriage certificate",
+      "importanceInternationalMarriageDescr": "An international marriage certificate, for example issued in Denmark and apostilled, is recognized in Europe.",
+      "informationRecognition": "Information on recognition of marriage abroad",
+      "informationRecognitionDescr": "There is no specific procedure or solely responsible authorities for the recognition of a marriage concluded abroad for the German legal area.",
+	  "learnMore": "learn more...",
+		"gallery":{
+			"title":"Gallery of the Happy Ones",
+			"alts":{
+				"topLeft": "Newlyweds looking at each other covered with a veil",
+				"topCenter": "The bride in a white dress is held in the arms of the groom against the background of a tree and sunset",
+				"topRight": "A couple of newlyweds kissing on the seashore against the backdrop of sunset",
+				"center": "A girl looks over a man's shoulder, both smile",
+				"bottomLeft":"A woman stands with her back in front of a man, hugging",
+				"bottomCenter": "Wedding rings on vinyl disc and flowers",
+				"bottomRight": "Wedding rings on a man's and woman's hand"
+			}
+		},
+		"achievementsTitle": "Our Achievements",
+		"achievementsText": "The Danish island of Ærø established itself as a popular destination for foreign couples wishing to marry in 2009. The number of marriages at the town hall of Ærøskøbing doubled last year. Natalia Yakymenskyy, who owns a wedding agency, organizes a bus tour every week for couples from Germany and Eastern Europe who want to get married in Ærøskøbing. The procedure in Denmark is faster and easier compared to their home countries, especially regarding bureaucratic obstacles. Ærø is particularly popular among couples from Germany and Russia, with the island already recording 220 weddings this year compared to 110 last year. Mayor of Ærø, Jørgen Otto Jørgensen, attributes the increase to, among other things, hiring additional staff to accommodate more couples. The island's popularity is attributed to its picturesque landscape and romantic atmosphere.",
+		"achievementsLink": "Read more…",
+		"altAchievement": "Achievement wreath icon"
+    },
+		"serviceAndPrice": {
+		  "title": "Our Services and Prices:",
+		  "service_1": "We stand by your side with a comprehensive range of services for planning your dream wedding in Denmark. Our goal is to provide you with a worry-free and unforgettable day. Here is an overview of our services and packages designed to meet your needs.",
+		  "standart_1": "Our range of services includes:",
+		  "standart_1_definitions_1": "<strong>Free, comprehensive consultation:</strong> We are by your side from the beginning to answer your questions and plan the best path for your wedding in Denmark.",
+		  "standart_1_definitions_2": "<strong>Document review and compilation:</strong> We take care of reviewing and compiling all the necessary documents for your wedding.",
+		  "standart_1_definitions_3": "<strong>On-site support:</strong> Our team personally accompanies you on your wedding day to ensure everything goes smoothly.",
+		  "standart_1_definitions_4": "<strong>Complete organization:</strong> From beach weddings to individual wishes like hotel reservations, dinner, bouquet, cake, and music – we organize your big day according to your visions.",
+		  "standart_1_definitions_5": "<strong>Provision of witnesses:</strong> If you do not have your own witnesses, we provide them at no additional cost.",
+		  "standart_1_definitions_6": "<strong>Certified translations and certifications:</strong> We take care of the necessary translations and certifications of your documents.",
+		  "standart_1_definitions_7": "<strong>Personal contact person on-site:</strong> Depending on the chosen package, you will have a personal contact person at your side.",
+		  "standart_2": "Our Wedding Packages:",
+		  "standart_2_definition": "<strong>Standard Package A – 990.00 € (incl. 19% VAT)</strong><ul><li>&bull; Includes registry office fees, personal contact person on-site, provision of two witnesses.</li><li>&bull; Includes the review fee of 1900 DKK (260 Euro)</li><li>&bull; Travel guide to the destination</li><li>&bull; Own arrival.</li><li>&bull; <strong>Seasonal price:</strong> 1,100.00 € (01.06. - 30.08. & 01.11. - 20.12.)</li><li>&bull; Deposit: 590.00 €, final payment after receiving the marriage license.</li></ul><strong>All-inclusive Package B – From 2,400.00 €</strong><ul><li>&bull; For municipalities with overnight stay requirement. Includes round-trip, 1 overnight stay with breakfast, bottle of champagne, two witnesses, registry office fees, contact person on-site.</li><li><strong>&bull; Seasonal price:</strong> From 2,700.00 € (01.06. - 30.08. & 01.11. - 20.12.)</li></ul><strong>Copenhagen Special – 1,350.00 €</strong><ul><li>&bull; Marriage in Copenhagen possible within 2 to 3 weeks.</li><li>&bull; More info on the homepage under “Copenhagen Special”</li></ul><strong>Beach Wedding – Price upon request</strong><ul><li>&bull; Individual offer according to your wishes.</li><li>&bull; More info on the homepage under “Beach Wedding”</li></ul>",
+		  "tableTitle": "Additional Services",
+		  "serviceName_1": "Marriage in Copenhagen. Appointment possible within 2 to 3 weeks",
+		  "serviceName_2": "Apostille for full recognition",
+		  "serviceName_3": "Professional photographer at wedding ceremony: Photo album from",
+		  "serviceName_4": "Professional photographer at wedding ceremony:",
+		  "serviceName_5": "Obtaining new marriage certificate(s)",
+		  "serviceName_6": "Obtaining a new marriage certificate with Apostille",
+		  "servicePrice_1": "1300.00",
+		  "servicePrice_2": "200.00",
+		  "servicePrice_3": "350.00",
+		  "servicePrice_4": "250.00",
+		  "servicePrice_5": "119.00",
+		  "servicePrice_6": "270.00",
+		  "important": "Important: To recognize your marriage in Germany and in the country of the foreign partner, you need at least one marriage certificate with Apostille.",
+		  "serviceRuleTitle": "Important to know:",
+		  "serviceRule_1": "&bull; The recognition of your marriage requires at least one marriage certificate with Apostille. We handle this quickly and efficiently at the Foreign Ministry in Copenhagen.",
+		  "serviceRule_2": "&bull; The processing of your documents begins after receipt of the completed and signed forms as well as the deposit. This procedure protects our services and your investment in the most beautiful day of your life.",
+		  "quicklySerisesTitle": "We wish all our couples happiness and look forward to making your day special. </br></br>",
+		  "quicklySerise_1": "Our offer is designed to provide you with a stress-free experience, allowing you to fully concentrate on your love. Choose the level of service that suits you best and enjoy a beautiful stay and excellent service in Denmark.",
+		  "imageLimousine": "The girl in the white wedding dress in the limousine.",
+		  "altBouquet_1": "The bridal bouquet in the girl's hand.",
+		  "altBouquet_2": "The bridal bouquet in the hands of the bride and groom.",
+		  "altWindow": "The bride with the wedding bouquet against the background of a drawn window through which light shines."
+		},
+		"contacts": {
+    	"altImg": "Beige flower on a beige silk sheet",
+   		"slogan": "Contact us",
+   		"title": "Let's talk with us",
+   		"subtitle": "Planning, consultation, organization by Natalia Yakymenskyy",
+   		"street": "Hammersberg 32 <span>66280 Sulzbach</span> ",
+   		"email": "<a href='mailto:daenemark-heiraten@gmx.de'>daenemark-heiraten@gmx.de</a>",
+   		"phone": "(49)-0176 846 606 64",
+   		"phone_2": "(49)-06897-914 0149",
+   		"fax": "(49)-6897-765481",
+			"altPhoto": "call center wedding denmark"
+		},
+		"denmarkServicepaket": {
+			"mainImageAlt": "The bride throws the wedding bouquet.",
+			"backgroundAlt" : "Flowers and candlesticks on a table in the garden on a blurred background",
+			"subtitle": "Service package",
+			"title": "Wedding in Denmark in two weeks",
+			"paketDefinitions": {
+				"definition_1": "A wedding organizer is a professional planner specializing in helping couples plan and execute their wedding.",
+				"definition_2": "These professionals offer comprehensive services ranging from budget planning and venue selection to supplier coordination and support on the wedding day. Their goal is to minimize the stress of wedding preparations and ensure that everything runs smoothly."
+			},
+			"stagesTitle": "Stages of Wedding Organization",
+			"stages": {
+				"stage_1": {
+					"stageTitle": "Wedding Planning Consultation:",
+					"stageItem_1": "Pre-meetings with a wedding coordinator to discuss all details and preferences.",
+					"stageItem_2": "Price: from 150 to 300 euros."
+				},
+				"stage_2": {
+					"stageTitle": "Document Processing:",
+					"stageItem_1": "Consultation on collecting the necessary documents for marriage registration in Denmark.",
+					"stageItem_2": "Submission of the application to the Danish registry office and documents.",
+					"stageItem_3": "Price: from 500 to 1000 euros, depending on the complexity of the case."
+				},
+				"stage_3": {
+					"stageTitle": "Wedding Planning Consultation:",
+					"stageItem_1": "Pre-meetings with a wedding coordinator to discuss all details and preferences.",
+					"stageItem_2": "Price: from 150 to 300 euros."
+				},
+				"stage_4": {
+					"stageTitle": "Venue Selection and Booking:",
+					"stageItem_1": "Suggestions for ceremony venues (registration in a castle, on the beach, in a lighthouse, etc.).",
+					"stageItem_2": "Booking the date and venue.",
+					"stageItem_3": "Price: from 400 to 2000 euros, depending on the venue."
+				},
+				"stage_5": {
+					"stageTitle": "Flower Decoration and Décor:",
+					"stageItem_1": "Decoration of the ceremony venue as desired.",
+					"stageItem_2": "Bridal bouquet and boutonniere for the groom.",
+					"stageItem_3": "Price: from 200 to 800 euros."
+				},
+				"stage_6": {
+					"stageTitle": "Photographer and/or Videographer:",
+					"stageItem_1": "Services of a professional photographer and/or videographer at the ceremony and for the photo shoot.",
+					"stageItem_2": "Price: from 500 to 1500 euros."
+				},
+				"stage_7": {
+					"stageTitle": "Festive Dinner:",
+					"stageItem_1": "Reservation of a restaurant or catering of choice.",
+					"stageItem_2": "Organization of a festive dinner for the bride and groom and guests.",
+					"stageItem_3": "Price: from 50 to 150 euros per person."
+				},
+				"stage_8": {
+					"stageTitle": "Transfer:",
+					"stageItem_1": "Transfer to and from the airport and transport services on the wedding day.",
+					"stageItem_2": "Price: from 100 to 300 euros."
+				}
+			},
+			"callbackSlogan": "Have questions? <span>Call us!</span>"
+		},
+		"copenhagenServicepaket": {
+				"mainImageAlt": "Newlyweds with a bouquet against the backdrop of an ancient city",
+				"backgroundAlt" : "Town hall building",
+				"subtitle": "Service package",
+				"title": "“Exclusive Wedding in Denmark”",
+				"paketDefinitions": {
+					"definition_1": "Your wedding in Denmark can become the brightest and most unforgettable event in your life, thanks to our exclusive service package. We offer you a complete immersion into the magic of Danish weddings, from the beginning of planning to the honeymoon."
+				},
+				"stagesTitle": "Stages of Wedding Organization",
+				"stages": {
+					"stage_1": {
+						"stageTitle": "Personal Wedding Advisor",
+						"stageItem_1": "From the first day of planning to the most important moment of your life, a personal wedding advisor will be by your side to ensure a flawless celebration. Your wishes and dreams will be our priority, while our experience and knowledge will be the key to their realization."
+					},
+				"stage_2": {
+					"stageTitle": "Preparation and Processing of Documentation",
+					"stageItem_1": "We take care of all the worries of preparing and processing the necessary documents for marriage in Denmark, including personalized advice and submission of documents to the Danish authorities. This allows you to focus on the pleasant moments of wedding preparation."
+				},
+				"stage_3": {
+					"stageTitle": "Individual Selection of Venue",
+					"stageItem_1": "From historic castles to secluded beaches, we will find the perfect venue for your ceremony that suits your taste and style. This includes exclusive venues available only to our clients."
+				},
+				"stage_4": {
+					"stageTitle": "Exclusive Decoration and Floristry",
+					"stageItem_1": "The design of your venue will create a unique atmosphere for your celebration. We offer original decoration and floristry ideas, including wedding bouquet and boutonniere, according to the latest trends and your preferences."
+				},
+				"stage_5": {
+					"stageTitle": "Professional Photo and Video Services",
+					"stageItem_1": "The captivating moments of your wedding day will be artfully captured by our professional photographers and videographers, creating memories that will delight you for a lifetime."
+				},
+				"stage_6": {
+					"stageTitle": "Gastronomic Journey",
+					"stageItem_1": "We offer you an exclusive menu from the best chefs in Denmark, from traditional Danish dishes to individually crafted culinary masterpieces that will satisfy even the most discerning palates."
+				},
+				"stage_7": {
+					"stageTitle": "Additional Services Upon Request",
+					"stageItem_1": "Organization of a pre-wedding photoshoot in picturesque corners of Denmark.",
+					"stageItem_2": "Musical accompaniment for the ceremony and evening – from a classical quartet to a DJ.",
+					"stageItem_3": "Stylist and makeup artist for the perfect look.",
+					"stageItem_4": "Luxury transportation services, including limousines and vintage cars."
+				}
+			},
+			"callbackSlogan": "Have questions? <span>Give us a call!</span>"
+		},
+		"onTheBeachServicepaket": {
+			"mainImageAlt": "Newlyweds on the beach with mountains in the background",
+			"backgroundAlt" : "Sunset over the sea",
+			"subtitle": "Service package",
+			"title": "Exclusive Wedding on Aero Island",
+			"paketDefinitions": {
+				"definition_1": "We present to you a unique opportunity to celebrate your wedding on one of Denmark's most picturesque islands, Aero Island. This package is designed for couples who dream of an unforgettable wedding in a secluded and romantic location, where every moment is filled with beauty and enchanting atmosphere."
+			},
+			"stagesTitle": "Stages of Wedding Organization",
+			"stages": {
+				"stage_1": {
+					"stageTitle": "Personal Wedding Consultant",
+					"stageItem_1": "From the initial planning steps to the moment you exchange vows by the sea or at a cozy location on the island, our personal wedding planner will accompany you, with your wishes and preferences being the focus for creating the perfect wedding day."
+				},
+				"stage_2": {
+					"stageTitle": "Hassle-Free Document Preparation",
+					"stageItem_1": "We take care of all aspects related to preparing and filling out the necessary documents for marriage on Aero Island, giving you peace of mind and the assurance that all legal aspects are being addressed and executed flawlessly."
+				},
+				"stage_3": {
+					"stageTitle": "Exclusive Venue for the Ceremony",
+					"stageItem_1": "Aero Island is renowned for its breathtaking landscapes and unique wedding venues – whether it's an old lighthouse, a picturesque beach, or a secret garden. We'll assist you in choosing the location that provides the perfect backdrop for your ceremony and wedding photos."
+				},
+				"stage_4": {
+					"stageTitle": "Décor and Floristry Creating Atmosphere",
+					"stageItem_1": "Our team of professionals will design exclusive décor and floristry that seamlessly fits into the concept of your wedding and the natural beauty of the island, including the decoration of the ceremony venue, the bridal bouquet, and accessories."
+				},
+				"stage_5": {
+					"stageTitle": "Photography and Videography",
+					"stageItem_1": "Capture the stunning moments of your wedding day with our professional photographers and videographers, creating memories that will stay with you for a lifetime."
+				},
+				"stage_6": {
+					"stageTitle": "Unique Gastronomic Experiences",
+					"stageItem_1": "The wedding feast on Aero Island is a culinary journey reflecting local traditions and ingredients. Our chef will offer you a custom-designed menu that will surprise and delight you and your guests."
+				},
+				"stage_7": {
+					"stageTitle": "Additional Services for Your Comfort",
+					"stageItem_1": "Organization of a pre-wedding photoshoot in the most picturesque spots of the island.",
+					"stageItem_2": "Musical accompaniment of your choice for the ceremony and evening.",
+					"stageItem_3": "Services of a stylist and makeup artist for an unmatched appearance.",
+					"stageItem_4": "Exclusive transportation for you and your guests, including the option to arrive stylishly by yacht or boat to the island."
+				}
+			},
+			"callbackSlogan": "Still have questions? <span>Call us!</span>"
+		},	
+		"howToMarry": {
+			"questionsBlock": {
+			  "questionBlockTitle": "Basic Questions About Your Wedding in Denmark:",
+			  "howToMarryFirst": {
+				"title": "You want to marry in Denmark but don't know how?",
+				"answer": "The idea of tying the knot in Denmark sounds enticing, yet the path there may seem unclear. Worry not, our agency is by your side to make this special day a reality. With our expertise, getting married in Denmark becomes a straightforward and joyful event. We guide you step by step, allowing you to focus fully on your vows."
+			  },
+			  "howToMarrySecond": {
+				"title": "What documents do I need to get married in Denmark?",
+				"answer": "The question of necessary documents for a wedding in Denmark cannot be answered broadly, as every case is individual. Generally, Denmark simplifies the process significantly for international and same-sex couples. You will need: </br></br><ul><li>&bull; For EU citizens: Valid ID or passport (all pages, including empty ones).</li><li>&bull; For non-EU citizens: Valid passport with Schengen visa or residence permit.</li><li>&bull; If divorced or widowed: Complete divorce decree or partner's death certificate, with legal effect notation, certified and translated into German or English.</li></ul></br>In addition, we ask you to sign a power of attorney and a marriage declaration and send them back to us. Note: In Denmark, no birth certificate, no certificate of no impediment, and no registration certificate are required. For a personal consultation and to discuss your individual case, we look forward to your call."
+			  },
+			  "howToMarryThird": {
+				"title": "Do I need witnesses?",
+				"answer": "Yes, it is required in Denmark to have witnesses. If you cannot bring witnesses, we are happy to provide them for you free of charge. This service is part of our commitment to make your wedding as pleasant and worry-free as possible."
+			  },
+			  "howToMarryFourth": {
+				"title": "Is a wedding in Denmark possible without lengthy bureaucratic procedures?",
+				"answer": "This is exactly where we come in: We make it possible for you to marry in Denmark without having to fight through the usual bureaucratic jungle. Our goal is to make the process as easy and smooth for you as possible. With our help, you can bypass the paperwork and focus on what's essential – your love and shared happiness."
+			  },
+			  "howToMarryFifth": {
+				"title": "Why should I marry in Denmark?",
+				"answer": "Denmark offers not just a picturesque setting for your wedding but is also known for its straightforward and flexible marriage laws. This makes it a popular choice for couples from all over the world. Whether you are an international couple or have a same-sex partner, Denmark welcomes you and enables an easy, beautiful, and unforgettable ceremony."
+			  },
+			  "howToMarrySixth": {
+				"title": "Can we customize our wedding in Denmark?",
+				"answer": "Absolutely! Denmark offers not only an easy and straightforward way to get married but also the freedom to design your ceremony according to your personal wishes. Whether you desire an intimate ceremony on the beach, to marry in a historic castle, or prefer a simple yet meaningful ceremony – we help you turn your vision into reality. Our agency works closely with you to ensure your big day is exactly as you have always dreamed."
+			  },
+			  "howToMarrySeventh": {
+				"title": "What happens after the wedding? How do we receive our marriage certificate?",
+				"answer": "After your wedding in Denmark, we take care of issuing your marriage certificate. This will be handed to you immediately after the ceremony. Additionally, we ensure that the certificate is recognized internationally by providing it with an apostille. This service is part of our commitment to provide you with a smooth transition into your new life as a married couple. We initiate all necessary steps so that your marriage is recognized worldwide, and you can start your joint future without any bureaucratic hurdles."
+			  },
+			  "howToMarryEighth": {
+				"title": "Is there a minimum residency requirement in Denmark before the wedding?",
+				"answer": "No, Denmark does not require a minimum residency duration before the wedding. This means you can plan flexibly and do not have to stay in the country unnecessarily long before you are allowed to marry. Our agency assists you in scheduling all necessary appointments and formalities to make your stay and wedding meet your expectations. We strive to make the process as pleasant and stress-free for you as possible."
+			  },
+			  "howToMarryNinth": {
+				"title": "How does your agency support same-sex couples in planning their wedding in Denmark?",
+				"answer": "Denmark is a pioneer in the equality of same-sex couples, offering an open and welcoming atmosphere for your wedding. Our agency has extensive experience in supporting same-sex couples and is dedicated to making your wedding as special as you wish. We understand the unique challenges and needs same-sex couples may have and offer tailored advice and planning to ensure your day goes smoothly and your love is celebrated. From selecting the perfect location to designing a ceremony that reflects your personal story, we stand by you to make your dream wedding come true."
+			  },
+			  "howToMarryConclusion": "Our agency is your trusted partner on the way to your dream wedding in Denmark. We take care of the formalities so you can focus on what's essential: your love for each other. Let's create this wonderful day together."
+			},
+			"documentsBlock": {
+			  "documentBlockTitle": "Documents for Marrying in Denmark:",
+			  "leftBlock": {
+				"title": "As an EU citizen",
+				"content": "<ul><li>ID or passport: Please include all pages, even empty ones.</li><li>Extended registration certificate: Not required since 01.01.2020.</li><li>If divorced or widowed within the EU, complete divorce decree with legal effect notation, death certificate of the partner and translated into German or English.</li></ul>"
+			  },
+			  "rightBlock": {
+				"title": "As a non-EU citizen",
+				"content": "<ul><li>Valid passport with valid Schengen – visa or residence permit- fiction certificate.</li><li>If registered in Germany -EU- registration certificate — not required since 01.01.2020.</li><li>All divorce decrees, divorce certificates, and death certificates issued outside the EU must be apostilled or legalized at the Danish embassy in the country where the document was issued, and translated into German or English.</li><li>Please print out the power of attorney and marriage declaration form, sign both, and send them back to us.</li><li><a href='/download-marriage-attorney' download>Download 'Marriage Power of Attorney'</a></li></ul>"
+			  }
+			},
+			"additionalQuestions": "<p><strong>No certificate of eligibility to marry from your home country? </br> </br> No birth certificate? </br> </br> No registration certificate? </strong></br> </br> Why complicate things when it can be simple? </br> Marry without bureaucratic procedures and paperwork. <strong><a href='tel:+49017684660664'>Call us!</a></strong></p>"
+		  },		  
+		"marriageLaw": {
+			"title": "Information on Recognition of Marriage Abroad",
+			"rule_1": {
+				"title": "Validity of Marriage:",
+				"definition": "<li><p>There is no specific procedure or solely responsible authorities for the recognition of a marriage contracted abroad for the German legal area.</p></li><li><p>The question of the validity of a marriage contracted abroad is a preliminary issue related to other official acts and is decided by the competent authority.</p></li><li><p>A marriage contracted abroad may be recognized if the substantive legal requirements for marriage under the home law of both spouses are fulfilled and the form of marriage is observed according to the law of the place of marriage or the home law.</p></li>"
+			},
+			"rule_2": {
+				"title": "Tax Recognition after Marriage in Denmark:",
+				"definition": "<li><p>An international Danish marriage certificate with an apostille is legally and fiscally recognized in Germany.</p></li><li><p>With this certificate, you can change your marital status and handle other tax matters.</p></li>"
+			},
+			"rule_3": {
+				"title": "Mandatory German Language Skills for Spouse Immigration:",
+				"definition": "<li><p>Yes, in Denmark, as of August 28, 2007, foreign spouses of Germans who wish to move to Germany must demonstrate basic German language skills.</p></li><li><p>The Start Deutsch A1 certificate is required to communicate in Germany and participate in social life.</p></li><li><p>Exceptions apply to spouses of other EU citizens without a permanent residence in their own country and for family reunifications from Turkey, where bilateral agreements apply. If you do not have this, we are happy to take care of it for you free of charge.</p></li>"
+			},
+			"rule_4": {
+				"title": "Law Amendment of August 28, 2007:",
+				"definition": "<li><p>The amendment provides that visa-required foreigners, for example, who enter Germany with a Schengen visa for the purpose of marrying a German, may, under certain conditions, apply for a residence permit.</p></li>"
+			}
+		},
+		"informationRecognition": {
+			"title": "Information on the Recognition of Marriage Abroad. Family Law.",
+			"mainInformation": "<p>As a very informative platform for international marriages, we recommend the website <a href='http://www.coupleseurope.eu/' target='_blank'>\"Couples in Europe\" in 27 languages</a> which clearly explains which law is applicable under various constellations.</p> <p><a href='http://www.frag-einen-anwalt.de/Im-Ausland-geschlossene-Ehe-die-noch-nicht-in-DE-eingetragen-wurde__f30022.html' target='_blank'><strong>Marriage conducted abroad, not yet registered in DE</strong></a> - Is the couple considered married under German law if the wedding took place abroad by a German or foreign registrar, but the couple did not have the marriage recognized in DE thereafter?</p> <p><em>- Yes. According to </em><a href='http://bundesrecht.juris.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031900377' target='_blank'><em>Art. 11</em></a><em> para. 1 </em><a href='http://bundesrecht.juris.de/bgbeg/index.html' target='_blank'><em>EGBGB</em></a><em>, for the validity of the marriage abroad, </em></p> <p><em>it is sufficient if the formal requirements for marriage at the place of the ceremony</em></p> <p><em> are complied with, otherwise the fiancés must meet the material </em></p><p><em>marriage conditions according to §§ </em><a href='http://bundesrecht.juris.de/bgb/__1303.html' target='_blank'><em>1303</em></a><em> to </em><a href='http://bundesrecht.juris.de/bgb/__1309.html' target='_blank'><em>1309</em></a><em> </em><a href='http://bundesrecht.juris.de/bgb/index.html' target='_blank'><em>BGB</em></a><em> - in particular</em></p> <p><em> being single, minimum age, no prohibited degree of kinship - or otherwise according to the </em></p> <p><em>provisions of the respective home law. German nationals are also </em></p> <p><em>not required to apply for the establishment of a family book or to change their name after marriage. It is therefore possible that someone - although this</em></p> <p><em> is not ascertainable from the German civil status registers - is nevertheless effectively </em></p> <p><em> married.</em><strong> <em>Recognition by the German authorities is not necessary, <br>recognition by law is sufficient. </em></strong></p><p><br></p><p>Homosexual marriages from Denmark are recognized in Germany and among others in Belgium, Netherlands, Spain, Portugal, Sweden, Iceland, France, Switzerland, USA (in some states).</p><p><strong><br><em>To prove a marriage conducted abroad, the foreign <br>marriage certificate with legalization or apostille is used. </em></strong></p> <p><u>- How long after the marriage is conducted abroad does one have to have it recognized in DE?</u></p> <p><em>- Indefinitely, as an official act of recognition is not prescribed.</em></p> <p><br></p> <p><u>- Is a divorce necessary if the partners wish to marry other partners - and if </u></p> <p><u>yes, according to which law?</u></p> <p><em>- Even without formal recognition of the marriage, an effective marriage exists. If </em></p> <p><em>one of the spouses wants to remarry, he or she must indeed get a divorce first, </em></p> <p><em>otherwise a bigamy prohibited by &sect; </em><a href='http://bundesrecht.juris.de/bgb/__1306.html' target='_blank'><em>1306</em></a><em> exists. The divorce is according to </em></p> <p><a href='http://bundesrecht.juris.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032200377' target='_blank'><em>Art. 14</em></a><em> para. 1, </em><a href='http://bundesrecht.juris.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032500377' target='_blank'><em>Art. 17</em></a><em> para. 1 sentence 1 usually under the law of the state to which both </em></p><p><em>belong, or in which they had their (last) habitual residence, alternatively under </em></p><p><em>the law of the state with which they are otherwise most closely connected, to be carried out. </em></p>"
+		},
+		"achievements": {
+			"title": "Our Achievements",
+			"item_1": {
+				"title": "Private purchase:",
+				"text_1": "Every week, Natalia Yakymenskyy fills a bus with ready-to-marry couples and drives from Germany to Ærøskøbing, where Mayor Jørgen Otto Jørgensen awaits at the town hall, ready to forge the marital bonds. Yakymenskyy owns a wedding bureau that offers complete package solutions to foreigners, especially from Germany and Eastern Europe, who want to bypass the heavy bureaucracy in their home countries.",
+				"text_2": "In other countries, it is often a very cumbersome and slow process to get all the necessary paperwork through the system, if, for example, a German wants to marry a Russian. In Denmark, it goes faster, and with our direct cooperation with the municipality of Ærø, we offer to handle all the paperwork for our couples, Natalia Yakymenskyy says.",
+				"imgAlt": "ring icon"
+			},
+			"item_2": {
+				"title": "Popular Ærø:",
+				"text_1": "Yakymenskyy's bureau is just one of five currently collaborating with the municipality of Ærø, and the island has become a magnet for foreigners contemplating marriage this year. According to the mayor's secretariat, the town hall has so far conducted 220 weddings since January, compared to 110 weddings for the same period last year. Out of the first 220 weddings this year, only eight of the couples were Danish, 154 were from Germany, 50 from Russia, while the rest were distributed among various countries, mostly from Eastern Europe.",
+				"text_2": "The significant jump in the number of weddings conducted is partly due to the fact that we have hired an additional employee in the secretariat, so we can now process more couples. But it's also because we simply get more and more inquiries, says Mayor Jørgen Otto Jørgensen, who often conducts 9-10 weddings in a single day.",
+				"text_3": "I think Ærø has become so popular because of the beautiful surroundings and the whole experience that couples get with the boat trip and the old buildings in Ærøskøbing. Those who have been here tell about it to friends and family when they come home, and in that way, Ærø has gained a good reputation, believes Jørgen Otto Jørgensen.",
+				"text_4": "Natalia Yakymenskyy shares that assessment. Although it is close to the border with Germany, it is a little more romantic and exotic on Ærø. The couples get a whole little wedding trip out of it, she says.",
+				"imgAlt": "ring icon"
+			}
+	}	
+	}    
+}

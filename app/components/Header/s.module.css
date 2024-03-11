@@ -1,0 +1,14 @@
+.header_wrapper {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 999;
+	background-color: var(--bg-color);
+	box-shadow: 0 0 2px 0 var(--font-main-color);
+}
+
+.container {
+	max-width: 1920px;
+	margin: 0 auto;
+}

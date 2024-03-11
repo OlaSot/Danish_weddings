@@ -1,0 +1,23 @@
+.recognitionBlock{
+    width: 100%;
+    padding-top: clamp(40px, 10vw, 90px);
+    padding-bottom: clamp(20px, 6vw, 55px);
+}
+.recognitionBlock .mainInfo{
+    display: block;
+    line-height: 2;
+    padding: var(--section-paddings);
+}
+
+.title {
+    text-align: center;
+	font-family: var(--font-constantia);
+	font-weight: 700;
+	font-size: clamp(26px, 4vw, 32px);
+	color: var(--font-main-color);
+}
+
+.recognitionBlock .mainInfo a{
+    text-decoration: underline;
+    color: var(--warning-font-color) !important;
+}

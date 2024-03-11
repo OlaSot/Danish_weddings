@@ -1,0 +1,17 @@
+.services {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	background-color: var(--bg-color);
+	gap: clamp(8px, 2vw, 22px);
+	padding-top: clamp(50px, 10vw, 140px);
+	padding-bottom: clamp(50px, 10vw, 140px);
+	padding-left: clamp(0px, 2.4vw, 32px);
+	padding-right: clamp(0px, 2.4vw, 32px);
+}
+
+@media (max-width: 480px) {
+	.services {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}

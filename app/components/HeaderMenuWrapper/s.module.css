@@ -1,0 +1,50 @@
+.headerMenu{
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.headerLinks{
+    display: flex;
+    gap: 1rem; 
+}
+.headerLinks a{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+@media (max-width: 1024px) {
+    .headerMenu{
+        position: absolute;
+        top: 0;
+        background: #ffffffbd;
+        height: 100vh;
+        backdrop-filter: blur(6px);
+        z-index: 3000;
+        flex-direction: column;
+        opacity: 0;
+        visibility: hidden;
+        transition: var(--transition-time);
+        right: 0;
+        top: 63px;
+        width: 100vw;
+        align-items: flex-end;
+        text-align: end;
+        padding: 20px 10%;
+    }
+
+    .menuActive {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .headerLinks{
+        gap: 3rem;
+        flex-direction: column;
+    }
+    .headerLinks a{
+        font-size: 1.875rem;
+        line-height: 2.25rem; 
+    }
+}

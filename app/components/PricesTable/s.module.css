@@ -1,0 +1,36 @@
+.price_table {
+	width: 100%;
+	margin: clamp(25px, 4vw, 65px) 0 clamp(25px, 4vw, 90px) 0;
+	font-family: var(--font-constantia);
+	font-size: clamp(20px, 4vw, 32px);
+	color: var(--font-main-color);
+}
+
+.table_title {
+	display: flex;
+	justify-content: center;
+}
+
+.services_list {
+	margin-top: clamp(25px, 4vw, 65px);
+
+}
+
+.service_name {
+	font-size: clamp(12px, 3vw, 20px);
+	padding: 10px;
+	border: 1px solid var(--font-main-color);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 30px;
+}
+
+.service_name:not(:last-child) {
+	border-bottom: none;
+}
+
+.service_name span {
+	padding-left: 10px;
+
+}

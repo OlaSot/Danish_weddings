@@ -1,0 +1,28 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 160px;
+	width: 100%;
+	height: auto;
+	margin-bottom: clamp(20px, 6vw, 80px);
+}
+
+.photoTextContainer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.photoTextContainerReversed {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: row-reverse;
+}
+
+@media (max-width: 1024px) {
+	.container {
+		gap: 25px;
+
+	}
+}

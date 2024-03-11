@@ -1,0 +1,51 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	max-width: 750px;
+	padding-left: 70px;
+}
+
+
+.description {
+	font-size: var(--text-size-content);
+	line-height: 130%;
+}
+
+.description a {
+	color: var(--additional-font-color);
+	text-decoration: underline;
+}
+
+.description p {
+	padding-right: 20px;
+}
+
+
+.containerReversed {
+	padding-right: 70px;
+	justify-content: flex-end;
+	align-items: flex-end;
+	text-align: right;
+}
+
+.containerReversed p {
+	padding-right: 10px;
+}
+
+@media (max-width: 1024px) {
+
+	.container,
+	.containerReversed {
+		max-width: 650px;
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+}
+
+@media (max-width: 767px) {
+
+	.description p {
+		padding-right: 0;
+	}
+}

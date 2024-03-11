@@ -1,0 +1,27 @@
+.polaroidCard {
+    width: 234px;
+    height: 278px;
+    padding: 17px 17px 60px 17px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);   
+}
+
+/* @media (max-width: 1400px) {
+
+    .polaroidCard {
+        width: 229px;
+        height: 271px;
+    }
+}
+
+@media (max-width: 700px) {
+    .polaroidCard{
+        width: 169px;
+        height: 201px;
+    }
+    .polaroidPhoto{
+        margin: 17px 30px 17px 17px;
+        width: 135px;
+        height: 135px;
+    }
+} */

@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Heiraten in Dänemark",
+    "description": "Unterstützung bei der Hochzeit in Dänemark. Hochzeitsplanung in Dänemark",
+    "keywords": "Hochzeit, Heiraten"
+  },
+  "nav": {
+    "locale-selector": {
+      "message": "Sprache wählen."
+    },
+    "linksInNav": {
+      "main": "Hauptseite",
+      "serviceAndPrice": "Service und preis",
+      "howToMarry": "Wie heiraten?",
+      "contact": "Kontakt"
+    }
+  },
+  "views": {
+    "homePage": {
+      "slogan": "Ihre Hiebe, unsere Hand - zusammen in Dänemark den Bund fürs Leben schließen.",
+      "weddingInDenmark": "Heiraten in Dänemark in 2 Wochen",
+      "copenhagenWedding": "Die Hochzeit in Kopenhagen",
+      "weddingOnTheBeach": "Hochzeit am Strand auf der Insel Aero",
+      "weddingInformation": "Informationen zu ihrer hochzeit in dänemark",
+      "taxRecognition": "Steuerrechtliche Anerkennung nach der Heirat in Dänemark",
+      "taxRecognitionDescr": "Eine internationale Eheurkunde, die Sie in Dänemark bei der Heirat bekommen haben, ist genauso in Deutschland und in der gesamten EU rechtlich und steuerlich ab den Datum der Eheschließung gültig. In den meisten Fällen muss die Urkunde mit einer Apostille überbeglaubigt werden.",
+      "nameChanging": "Namensänderung bei der Eheschließung in Dänemark",
+      "nameChangingDescr": "Bei der Heirat in Dänemark können die Eheleute nicht mehr die Namen der Ehepartner annehmen (bereits seit 01.04.2006), dies wird nach der Heirat in Deutschland bzw. in der Botschaft des Landes, wo der Partner seine Aufenthaltserlaubnis hat b2w in seinem Heimatland.",
+      "importanceInternationalMarriage": "Die Bedeutung der internationalen Heiratsurkunde",
+      "importanceInternationalMarriageDescr": "Internationale Heiratsurkunden, die in Dänemark ausgestellt und mit einer Apostille beglaubigt wurden, werden in Europa anerkannt.",
+      "informationRecognition": "Informationen zur Anerkennung der Ehe im Ausland",
+      "informationRecognitionDescr": "Es gibt kein spezifisches Verfahren oder allein zuständige Behörden für die Anerkennung einer im Ausland geschlossenen Ehe für den deutschen Rechtsbereich.",
+	  "learnMore": "Mehr erfahren...",
+		"gallery":{
+			"title":"Die Galerie der Glücklichen",
+			"alts":{
+				"topLeft": "Neuvermählte, die sich unter einem Schleier anschauen",
+				"topCenter": "Die Braut in einem weißen Kleid wird in den Armen des Bräutigams vor einem Baum und einem Sonnenuntergang gehalten",
+				"topRight": "Ein Paar Neuvermählte küsst sich am Strand vor einem Sonnenuntergang",
+				"center": "Ein Mädchen schaut über die Schulter eines Mannes, beide lächeln",
+				"bottomLeft": "Eine Frau steht mit dem Rücken vor einem Mann und umarmt ihn",
+				"bottomCenter": "Hochzeitsringe auf Vinylplatte und Blumen",
+				"bottomRight": "Hochzeitsringe an den Händen eines Mannes und einer Frau"
+			}
+		},
+		"achievementsTitle": "Unsere Leistungen",
+		"achievementsText": "Die dänische Insel Ærø hat sich im Jahr 2009 als beliebter Ort für ausländische Paare, die heiraten möchten, etabliert. Die Anzahl der Eheschließungen auf dem Rathaus von Ærøskøbing hat sich im letzten Jahr verdoppelt. Natalia Yakymenskyy, die ein Hochzeitsbüro besitzt, organisiert jede Woche eine Busreise für heiratswillige Paare aus Deutschland und Osteuropa nach Ærøskøbing. Die Prozedur in Dänemark ist im Vergleich zu ihren Heimatländern schneller und einfacher, was vor allem die bürokratischen Hürden betrifft. Ærø ist besonders bei Paaren aus Deutschland und Russland beliebt, wobei die Insel in diesem Jahr bereits 220 Trauungen verzeichnet hat, im Vergleich zu 110 im Vorjahr. Der Bürgermeister von Ærø, Jørgen Otto Jørgensen, führt den Anstieg unter anderem auf die Einstellung zusätzlichen Personals zurück, um mehr Paare betreuen zu können. Die Beliebtheit der Insel wird auf ihre malerische Landschaft und die romantische Atmosphäre zurückgeführt.",
+		"achievementsLink": "Mehr lesen…",
+		"altAchievement": "Erfolgskranz-Symbol"
+		},
+		"serviceAndPrice": {
+      		"title": "Unsere Serviceleistungen und Preise:",
+			"service_1": "Bei der Planung Ihrer Traumhochzeit in Dänemark stehen wir Ihnen mit einem umfassenden Serviceangebot zur Seite. Unser Ziel ist es, Ihnen einen sorgenfreien und unvergesslichen Tag zu ermöglichen. Hier finden Sie eine Übersicht unserer Dienstleistungen und Pakete, die speziell darauf ausgerichtet sind, Ihre Bedürfnisse zu erfüllen.",
+			"standart_1": "Unser Serviceangebot umfasst:",
+			"standart_1_definitions_1": "<strong>Kostenlose, umfassende Beratung:</strong>Wir stehen Ihnen von Anfang an zur Seite, um Ihre Fragen zu beantworten und den besten Weg für Ihre Hochzeit in Dänemark zu planen.",
+			"standart_1_definitions_2": "<strong>Dokumentenprüfung und -zusammenstellung:</strong> Wir kümmern uns um die Überprüfung und Zusammenstellung aller erforderlichen Dokumente für Ihre Hochzeit.",
+			"standart_1_definitions_3": "<strong>Vor-Ort-Begleitung:</strong> Unser Team begleitet Sie persönlich am Tag Ihrer Hochzeit, um sicherzustellen, dass alles reibungslos verläuft.",
+			"standart_1_definitions_4": "<strong>Komplette Organisation:</strong>Von Strandhochzeiten bis hin zu individuellen Wünschen wie Hotelreservierungen, Abendessen, Blumenstrauß, Torte und Musik – wir organisieren Ihren großen Tag nach Ihren Vorstellungen.",
+			"standart_1_definitions_5": "<strong>Bereitstellung von Trauzeugen:</strong>Falls Sie keine eigenen Trauzeugen haben, stellen wir diese ohne zusätzliche Kosten zur Verfügung.",
+			"standart_1_definitions_6": "<strong>Zertifizierte Übersetzungen und Beglaubigungen:</strong> Wir sorgen für die notwendigen Übersetzungen und Beglaubigungen Ihrer Dokumente.",
+			"standart_1_definitions_7": "<strong>Persönlicher Ansprechpartner vor Ort:</strong> Abhängig vom gewählten Paket steht Ihnen ein persönlicher Ansprechpartner zur Seite.",
+			"standart_2": "Unsere Hochzeitspakete:",
+			"standart_2_definition": "<strong>Standard-Paket A &ndash; 990,00 &euro; (inkl. 19% MwSt.)</strong><ul><li>&bull; Inklusive Standesamtgeb&uuml;hren, pers&ouml;nlicher Ansprechpartner vor Ort, Bereitstellung von zwei Trauzeugen.</li><li>&bull; Inklusive der Pr&uuml;fungsgeb&uuml;hr von 1900 DKK ( 260 Euro )</li><li>&bull; Reiseanleitung zum Zielort</li><li>&bull; Eigene Anreise.</li><li>&bull; <strong>Saisonpreis:</strong> 1.100,00 &euro; (01.06. - 30.08. &amp; 01.11. - 20.12.)</li><li>&bull; Anzahlung: 590,00 &euro;, Restzahlung nach Erhalt der Heiratserlaubnis.</li></ul></li><strong>All-inclusive-Paket B &ndash; Ab 2.400,00 &euro;</strong><ul><li>&bull; F&uuml;r Kommunen mit &Uuml;bernachtungspflicht. Inklusive Hin- und R&uuml;ckfahrt, 1 &Uuml;bernachtung mit Fr&uuml;hst&uuml;ck, Flasche Sekt, zwei Trauzeugen, Standesamtgeb&uuml;hren, Ansprechpartner vor Ort.</li><li><strong>&bull; Saisonpreis:</strong> Ab 2.700,00 &euro; (01.06. - 30.08. &amp; 01.11. - 20.12.)</li></ul></li><strong>Kopenhagen-Spezial &ndash; 1.350,00 &euro;</strong><ul><li>&bull; Heiraten in Kopenhagen innerhalb von 2 bis 3 Wochen m&ouml;glich.</li><li>&bull; Mehr Infos auf der Startseite unter &bdquo;Kopenhagen-Spezial&ldquo;</li></ul></li><strong>Strandhochzeit &ndash; Preis auf Anfrage</strong><ul><li>&bull; Individuelles Angebot nach Ihren W&uuml;nschen.</li><li>&bull; Mehr Infos auf der Startseite unter &bdquo;Strandhochzeit&ldquo;</li></ul></li></ol>",
+		"tableTitle": "Nebenleistung",
+			"serviceName_1": "Heiraten in Kopenhagen. Termin innerhalb von 2 bis 3 Wochen möglich",
+			"serviceName_2": "Apostille für volle Anerkennung",
+			"serviceName_3": "Profi Fotograf bei Hochzeit Zeremonie : Foto Album ab",
+			"serviceName_4": "Profi Fotograf bei Hochzeit Zeremonie : ",				
+			"serviceName_5": "Einholung neuer Eheurkunde(n)",
+			"serviceName_6": "Einholung einer neuer Eheurkunde mit Apostille  ",
+			"servicePrice_1": "1300,00",
+			"servicePrice_2": "200,00",
+			"servicePrice_3": "350,00",
+			"servicePrice_4": "250,00",
+			"servicePrice_5": "119,00",
+			"servicePrice_6": "270,00",
+			"important": "Wichtig: Die Anerkennung Ihrer Trauung in Deutschland und im Land des ausländischen Partners benötigen Sie mindestens eine Heiratsurkunde mit Apostille.",
+			"serviceRuleTitle": "Wichtig zu wissen:",
+			"serviceRule_1": "&bull; Die Anerkennung Ihrer Ehe erfordert mindestens eine Heiratsurkunde mit Apostille. Wir erledigen dies schnell und effizient im Außenministerium in Kopenhagen.",				
+			"serviceRule_2": "&bull; Die Bearbeitung Ihrer Dokumente beginnt nach Erhalt der ausgefüllten und unterschriebenen Formulare sowie der Anzahlung. Diese Vorgehensweise schützt unsere Dienstleistungen und Ihre Investition in den schönsten Tag Ihres Lebens.",
+			"quicklySerisesTitle": "Wir wünschen allen unseren Paaren viel Glück und freuen uns darauf, Ihren Tag besonders zu machen. </br></br>",
+			"quicklySerise_1": "Unser Angebot ist darauf ausgerichtet, Ihnen eine stressfreie Erfahrung zu bieten, damit Sie sich voll und ganz auf Ihre Liebe konzentrieren können. Wählen Sie den Serviceumfang, der am besten zu Ihnen passt, und genießen Sie einen wunderschönen Aufenthalt und exzellenten Service in Dänemark.",
+			"imageLimousine": "Das Mädchen im weißen Brautkleid in der Limousine.",
+			"altBouquet_1": "Der Brautstrauß in der Hand des Mädchens.",
+			"altBouquet_2": "Der Brautstrauß in den Händen der Brautleute.",
+			"altWindow": "Die Braut mit dem Hochzeitsstrauß vor dem Hintergrund eines vorgezogenen Fensters, durch das Licht strahlt."
+    },
+		"contacts": {
+			"altImg": "Beige Blume auf einem beigen Seidenlaken",
+			"slogan": "Kontaktiere uns",
+			"title": "Lassen Sie uns mit uns reden",
+			"subtitle": "Planung, Beratung, Organisation von Natalia Yakymenskyy",
+			"street": "Am Hammersberg 32 <span>66280 Sulzbach</span>",
+			"email": "<a href='mailto:daenemark-heiraten@gmx.de'>daenemark-heiraten@gmx.de</a>",
+			"phone": "(49)-0176 846 606 64",
+			"phone_2": "(49)-06897-914 0149",
+			"fax": "(49)-6897-765481",
+			"altPhoto": "heiraten daenemark Callcenter"
+		},
+		"denmarkServicepaket": {
+			"mainImageAlt": "Die Braut wirft den Hochzeitsstrauß.",
+			"backgroundAlt" : "Blumen und Kerzenständer auf einem Tisch im Garten vor verschwommenem Hintergrund",
+			"subtitle": "Servicepaket",
+			"title": "“Hochzeit in Dänemark in zwei Wochen”",
+			"paketDefinitions": {
+				"definition_1": "Ein Hochzeitsorganisator ist ein professioneller Planer, der sich darauf spezialisiert hat, Paaren bei der Planung und Durchführung ihrer Hochzeit zu helfen.",
+				"definition_2": "Diese Fachleute bieten umfassende Dienstleistungen an, die von der Budgetplanung über die Auswahl der Location, die Koordination der Lieferanten bis hin zur Unterstützung am Hochzeitstag reichen. Ihr Ziel ist es, den Stress der Hochzeitsvorbereitungen zu minimieren und sicherzustellen, dass alles reibungslos verläuft."
+			},
+			"stagesTitle": "Phasen der Organisation einer Hochzeit",
+			"stages": {
+				"stage_1": {
+					"stageTitle": "Beratung zur Hochzeitsplanung:",
+					"stageItem_1": "Vorbesprechungen mit einem Hochzeitskoordinator zur Besprechung aller Details und Wünsche.",
+					"stageItem_2": "Preis: von 150 bis 300 Euro."
+				},
+				"stage_2": {
+					"stageTitle": "Dokumentenbearbeitung:",
+					"stageItem_1": "Beratung zum Sammeln der erforderlichen Dokumente für die Eheschließung in Dänemark.",
+					"stageItem_2": "Einreichung des Antrags beim dänischen Familienamt und der Dokumente.",
+					"stageItem_3": "Preis: von 500 bis 1000 Euro, abhängig von der Komplexität des Falls."
+				},
+				"stage_3": {
+					"stageTitle": "Beratung zur Hochzeitsplanung:",
+					"stageItem_1": "Vorbesprechungen mit einem Hochzeitskoordinator zur Besprechung aller Details und Wünsche.",
+					"stageItem_2": "Preis: von 150 bis 300 Euro."
+				},
+				"stage_4": {
+					"stageTitle": "Auswahl und Buchung des Zeremonieortes:",
+					"stageItem_1": "Vorschläge für Zeremonieorte (Registrierung in einem Schloss, am Strand, in einem Leuchtturm etc.).",
+					"stageItem_2": "Buchung des Datums und des Ortes.",
+					"stageItem_3": "Preis: von 400 bis 2000 Euro, abhängig vom Ort."
+				},
+				"stage_5": {
+					"stageTitle": "Blumendekoration und Dekor:",
+					"stageItem_1": "Dekoration des Zeremonieortes nach Wunsch.",
+					"stageItem_2": "Brautstrauß und Ansteckblume für den Bräutigam.",
+					"stageItem_3": "Preis: von 200 bis 800 Euro."
+				},
+				"stage_6": {
+					"stageTitle": "Fotograf und/oder Videograf:",
+					"stageItem_1": "Dienste eines professionellen Fotografen und/oder Videografen bei der Zeremonie und für das Fotoshooting.",
+					"stageItem_2": "Preis: von 500 bis 1500 Euro."
+				},
+				"stage_7": {
+					"stageTitle": "Festliches Abendessen:",
+					"stageItem_1": "Reservierung eines Restaurants oder Catering nach Wahl.",
+					"stageItem_2": "Organisation eines festlichen Abendessens für das Brautpaar und die Gäste.",
+					"stageItem_3": "Preis: von 50 bis 150 Euro pro Person."
+				},
+				"stage_8": {
+					"stageTitle": "Transfer:",
+					"stageItem_1": "Transfer vom und zum Flughafen sowie Transportdienste am Hochzeitstag.",
+					"stageItem_2": "Preis: von 100 bis 300 Euro."
+				}
+			},
+			"callbackSlogan": "Haben Sie noch Fragen? <span>Rufen Sie uns an!</span>"
+		},
+		"copenhagenServicepaket":{                    
+			"mainImageAlt": "Frischvermählte mit Blumenstrauß vor der Kulisse einer antiken Stadt",
+			"backgroundAlt" : "Rathausgebäude",
+			"subtitle": "Servicepaket",
+			"title": "“Exklusive Hochzeit in Dänemark”",
+			"paketDefinitions": {
+				"definition_1": "Ihre Hochzeit in Dänemark kann zum hellsten und unvergesslichsten Ereignis in Ihrem Leben werden, dank unseres exklusiven Servicepakets. Wir bieten Ihnen ein vollständiges Eintauchen in die Magie der dänischen Hochzeit, vom Anfang der Planung bis zur Flitterwochen."
+			},
+			"stagesTitle": "Phasen der Organisation einer Hochzeit",
+			"stages": {
+				"stage_1": {
+					"stageTitle": "Persönlicher Hochzeitsberater",
+					"stageItem_1": "Vom ersten Tag der Planung bis zum wichtigsten Moment Ihres Lebens wird ein persönlicher Hochzeitsberater an Ihrer Seite sein, um eine makellose Feier zu gewährleisten. Ihre Wünsche und Träume werden unsere Priorität sein, während unsere Erfahrung und unser Wissen der Schlüssel zu ihrer Verwirklichung sind."
+				},
+				"stage_2": {
+					"stageTitle": "Vorbereitung und Bearbeitung der Dokumentation:",
+					"stageItem_1": "Wir übernehmen alle Sorgen der Vorbereitung und Bearbeitung der erforderlichen Dokumente für die Eheschließung in Dänemark, einschließlich personalisierter Beratung und Einreichung der Unterlagen bei den dänischen Behörden. Dies ermöglicht es Ihnen, sich auf die angenehmen Momente der Hochzeitsvorbereitung zu konzentrieren."
+				},
+				"stage_3": {
+					"stageTitle": "Individuelle Auswahl des Veranstaltungsortes",
+					"stageItem_1": "Von historischen Schlössern bis zu abgeschiedenen Stränden – wir finden den idealen Ort für Ihre Zeremonie, der Ihrem Geschmack und Stil entspricht. Dies beinhaltet exklusive Orte, die nur unseren Kunden zur Verfügung stehen."
+				},
+				"stage_4": {
+					"stageTitle": "Exklusive Dekoration und Floristik",
+					"stageItem_1": "Die Gestaltung Ihres Veranstaltungsortes wird eine einzigartige Atmosphäre für Ihre Feier schaffen. Wir bieten Ihnen originelle Dekorations- und Floristikideen, einschließlich Hochzeitsstrauß und Boutonniere, entsprechend den neuesten Trends und Ihren Vorlieben."
+				},
+				"stage_5": {
+					"stageTitle": "Professionelle Foto- und Videodienste",
+					"stageItem_1": "Die fesselnden Momente Ihres Hochzeitstages werden von unseren professionellen Fotografen und Videografen kunstvoll festgehalten, um Erinnerungen zu schaffen, die Sie ein Leben lang freuen werden."
+				},
+				"stage_6": {
+					"stageTitle": "Gastronomische Reise",
+					"stageItem_1": "Wir bieten Ihnen ein exklusives Menü von den besten Chefköchen Dänemarks, von traditionellen dänischen Gerichten bis hin zu individuell entwickelten kulinarischen Meisterwerken, die auch die anspruchsvollsten Gaumen zufriedenstellen."
+				},
+				"stage_7": {
+					"stageTitle": "Zusätzliche Dienstleistungen auf Wunsch",
+					"stageItem_1": "Organisation eines Vorhochzeits-Fotoshootings in malerischen Ecken Dänemarks.",
+					"stageItem_2": "Musikalische Begleitung der Zeremonie und des Abends – von einem klassischen Quartett bis zum DJ.",
+					"stageItem_3": "Stylist und Visagist für den perfekten Look.",
+					"stageItem_4": "Luxus-Transportdienste, einschließlich Limousinen und Vintage-Autos."
+				}
+			},
+			"callbackSlogan": "Haben Sie noch Fragen? <span>Rufen Sie uns an!</span>"
+		},
+		"onTheBeachServicepaket": {
+			"mainImageAlt": "Frischvermählte am Meeresufer vor der Kulisse der Berge",
+			"backgroundAlt" : "Sonnenuntergang über dem Meer",
+			"subtitle": "Servicepaket",
+			"title": "“Exklusive Hochzeit auf der Insel Aero”",
+			"paketDefinitions": {
+				"definition_1": "Wir präsentieren Ihnen eine einzigartige Möglichkeit, Ihr Fest auf einer der malerischsten Inseln Dänemarks, der Insel Ærø, zu feiern. Dieses Paket wurde für Paare konzipiert, die von einer unvergesslichen Hochzeit an einem abgeschiedenen und romantischen Ort träumen, wo jeder Moment mit Schönheit und einer bezaubernden Atmosphäre erfüllt ist."
+			},
+			"stagesTitle": "Phasen der Organisation einer Hochzeit",
+			"stages": {
+				"stage_1": {
+					"stageTitle": "Persönlicher Hochzeitsberater",
+					"stageItem_1": "Von den ersten Planungsschritten bis zum Moment, in dem Sie am Meer oder an einem gemütlichen Ort auf der Insel einander das Ja-Wort geben, wird unser persönlicher Hochzeitsplaner Sie begleiten, wobei Ihre Wünsche und Vorlieben für die Schaffung des perfekten Hochzeitstages im Vordergrund stehen."
+				},
+				"stage_2": {
+					"stageTitle": "Dokumentenvorbereitung ohne Mühe",
+					"stageItem_1": "Wir übernehmen alle Fragen im Zusammenhang mit der Vorbereitung und dem Ausfüllen der notwendigen Dokumente für die Eheschließung auf der Insel Ærø, um Ihnen Ruhe und die Gewissheit zu geben, dass alle rechtlichen Aspekte berücksichtigt und fehlerfrei erfüllt werden."
+				},
+				"stage_3": {
+					"stageTitle": "Exklusiver Ort für die Zeremonie",
+					"stageItem_1": "Die Insel Ærø ist bekannt für ihre atemberaubenden Landschaften und einzigartigen Orte für Hochzeiten – sei es ein alter Leuchtturm, ein malerischer Strand oder ein geheimer Garten. Wir helfen Ihnen, den Ort zu wählen, der den perfekten Hintergrund für Ihre Zeremonie und Hochzeitsfotos darstellt."
+				},
+				"stage_4": {
+					"stageTitle": "Dekor und Floristik, die Atmosphäre schaffen",
+					"stageItem_1": "Unser Team von Profis wird ein exklusives Dekor und Floristik entwerfen, die perfekt in das Konzept Ihrer Hochzeit und die natürliche Schönheit der Insel passen, einschließlich der Gestaltung des Zeremonieortes, des Brautstraußes und der Accessoires."
+				},
+				"stage_5": {
+					"stageTitle": "Fotografie und Videoaufnahmen",
+					"stageItem_1": "Halten Sie die atemberaubenden Momente Ihres Hochzeitstages mit unseren professionellen Fotografen und Videografen fest, die Erinnerungen schaffen, die ein Leben lang bei Ihnen bleiben."
+				},
+				"stage_6": {
+					"stageTitle": "Einzigartige gastronomische Erlebnisse",
+					"stageItem_1": "Das Festessen auf Ærø ist eine kulinarische Reise, die lokale Traditionen und Zutaten widerspiegelt. Unser Chefkoch wird Ihnen ein individuell gestaltetes Menü anbieten, das Sie und Ihre Gäste überraschen und erfreuen wird."
+				},
+				"stage_7": {
+					"stageTitle": "Zusatzleistungen für Ihren Komfort",
+					"stageItem_1": "Organisation eines Vorhochzeits-Fotoshootings in den malerischsten Ecken der Insel.",
+					"stageItem_2": "Musikalische Begleitung nach Ihrer Wahl für die Zeremonie und den Abend.",
+					"stageItem_3": "Dienstleistungen eines Stylisten und Visagisten für einen unübertroffenen Auftritt.",
+					"stageItem_4": "Exklusiver Transfer für Sie und Ihre Gäste, einschließlich der Möglichkeit, stilvoll mit einer Yacht oder einem Boot auf die Insel zu gelangen."
+				}
+			},
+			"callbackSlogan": "Haben Sie noch Fragen? <span>Rufen Sie uns an!</span>"
+		},
+    "howToMarry": {
+      "questionsBlock":{
+          "questionBlockTitle": "Grundlegende Fragen zu Ihrer Hochzeit in Dänemark:",
+          "howToMarryFirst": {
+            "title": "Sie möchten in Dänemark heiraten, aber wissen nicht, wie das geht?",
+            "answer": "Die Vorstellung, in Dänemark den Bund fürs Leben zu schließen, klingt verlockend und doch mag der Weg dorthin unklar erscheinen. Keine Sorge, unsere Agentur steht Ihnen zur Seite, um diesen besonderen Tag Wirklichkeit werden zu lassen. Mit unserer Expertise wird das Heiraten in Dänemark zu einem unkomplizierten und freudigen Ereignis. Wir begleiten Sie Schritt für Schritt, damit Sie sich voll und ganz auf Ihr Ja-Wort konzentrieren können."
+          },
+          "howToMarrySecond": {
+            "title": "Welche Papiere benötige ich zum Heiraten in Dänemark?",
+            "answer": "Die Frage nach den notwendigen Papieren für eine Hochzeit in Dänemark lässt sich nicht pauschal beantworten, da jeder Fall individuell ist. Generell vereinfacht Dänemark jedoch den Prozess für internationale und gleichgeschlechtliche Paare erheblich. Sie benötigen: </br></br><ul><li>&bull; Für EU-Bürger: Gültiger Ausweis oder Reisepass (alle Seiten, auch leere).</li><li>&bull; Für Nicht-EU-Bürger: Gültiger Reisepass mit Schengen-Visum oder Aufenthaltstitel.</li><li>&bull; Falls geschieden oder verwitwet: Vollständiges Scheidungsurteil oder Sterbeurkunde des Partners, mit Rechtskraftvermerk, beglaubigt und übersetzt in Deutsch oder Englisch.</li></ul></br>Zusätzlich bitten wir Sie, eine Vollmacht und eine Eheerklärung zu unterschreiben und an uns zurückzusenden. Wichtig: In Dänemark ist keine Geburtsurkunde, keine Ledigkeitsbescheinigung und keine Meldebescheinigung erforderlich. Für eine persönliche Beratung und um Ihren individuellen Fall zu besprechen, freuen wir uns auf Ihren Anruf."
+          },
+          "howToMarryThird": {
+            "title": "Brauche ich Trauzeugen?",
+            "answer": "Ja, in Dänemark ist es erforderlich, Trauzeugen zu haben. Sollten Sie keine Trauzeugen mitbringen können, stellen wir Ihnen gerne und kostenlos Trauzeugen zur Verfügung. Dieser Service ist Teil unseres Engagements, Ihre Hochzeit so angenehm und sorgenfrei wie möglich zu gestalten."
+          },
+          "howToMarryFourth": {
+            "title": "Ist eine Hochzeit in Dänemark auch ohne langwierige Behördengänge möglich? ",
+            "answer": "Genau hier setzen wir an: Wir machen es möglich, dass Sie in Dänemark heiraten können, ohne sich durch den üblichen Behördendschungel kämpfen zu müssen. Unser Ziel ist es, den Prozess für Sie so einfach und reibungslos wie möglich zu gestalten. Mit unserer Hilfe können Sie den Papierkrieg umgehen und sich auf das Wesentliche konzentrieren – Ihre Liebe und Ihr gemeinsames Glück."
+          },
+          "howToMarryFifth": {
+            "title": "Warum sollte ich gerade in Dänemark heiraten?",
+            "answer": "Dänemark bietet nicht nur eine malerische Kulisse für Ihre Hochzeit, sondern ist auch bekannt für seine unkomplizierten und flexiblen Heiratsgesetze. Dies macht es zu einer beliebten Wahl für Paare aus aller Welt. Ob Sie ein internationales Paar sind oder einen gleichgeschlechtlichen Partner haben, Dänemark heißt Sie willkommen und ermöglicht Ihnen eine einfache, schöne und unvergessliche Zeremonie."
+          },
+          "howToMarrySixth": {
+            "title": "Können wir unsere Hochzeit in Dänemark individuell gestalten? ",
+            "answer": "Absolut! Dänemark bietet nicht nur eine einfache und unkomplizierte Möglichkeit zu heiraten, sondern auch die Freiheit, Ihre Zeremonie nach Ihren persönlichen Wünschen zu gestalten. Ob Sie eine intime Zeremonie am Strand wünschen, in einem historischen Schloss heiraten möchten oder eine einfache, aber dennoch bedeutungsvolle Zeremonie bevorzugen – wir helfen Ihnen, Ihre Vision in die Realität umzusetzen. Unsere Agentur arbeitet eng mit Ihnen zusammen, um sicherzustellen, dass Ihr großer Tag genau so wird, wie Sie es sich immer erträumt haben."
+          },
+          "howToMarrySeventh": {
+            "title": "Was passiert nach der Hochzeit? Wie erhalten wir unsere Heiratsurkunde?",
+            "answer": "Nach Ihrer Trauung in Dänemark kümmern wir uns um die Ausstellung Ihrer Heiratsurkunde. Diese wird Ihnen unmittelbar nach der Zeremonie ausgehändigt. Zusätzlich sorgen wir dafür, dass die Urkunde international anerkannt wird, indem wir sie mit einer Apostille versehen. Dieser Service ist Teil unseres Engagements, Ihnen einen reibungslosen Übergang in Ihr neues Leben als Ehepaar zu ermöglichen. Wir leiten alle notwendigen Schritte ein, damit Ihre Ehe weltweit anerkannt wird und Sie ohne weitere bürokratische Hürden in Ihre gemeinsame Zukunft starten können."
+          },
+          "howToMarryEighth": {
+            "title": "Gibt es eine Mindestaufenthaltsdauer in Dänemark vor der Hochzeit?",
+            "answer": "Nein, Dänemark erfordert keine Mindestaufenthaltsdauer vor der Hochzeit. Dies bedeutet, dass Sie flexibel planen können und nicht unnötig lange im Land bleiben müssen, bevor Sie heiraten dürfen. Unsere Agentur hilft Ihnen, alle notwendigen Termine und Formalitäten so zu planen, dass Ihr Aufenthalt und Ihre Hochzeit genau Ihren Vorstellungen entsprechen. Wir streben danach, den Prozess für Sie so angenehm und stressfrei wie möglich zu gestalten."
+          },
+          "howToMarryNinth": {
+            "title": "Wie unterstützt Ihre Agentur gleichgeschlechtliche Paare bei der Planung ihrer Hochzeit in Dänemark? ",
+            "answer": "Dänemark ist ein Vorreiter in der Gleichstellung von gleichgeschlechtlichen Paaren und bietet eine offene und einladende Atmosphäre für Ihre Hochzeit. Unsere Agentur hat umfangreiche Erfahrung in der Unterstützung von gleichgeschlechtlichen Paaren und setzt sich dafür ein, dass Ihre Hochzeit genau so besonders wird, wie Sie es sich wünschen. Wir verstehen die einzigartigen Herausforderungen und Bedürfnisse, die gleichgeschlechtliche Paare haben können, und bieten eine maßgeschneiderte Beratung und Planung, um sicherzustellen, dass Ihr Tag reibungslos verläuft und Ihre Liebe gefeiert wird. Von der Auswahl des perfekten Ortes bis hin zur Gestaltung der Zeremonie, die Ihre persönliche Geschichte widerspiegelt, stehen wir Ihnen zur Seite, um Ihre Traumhochzeit Wirklichkeit werden zu lassen."
+          },
+		  "howToMarryConclusion": "Unsere Agentur ist Ihr vertrauensvoller Partner auf dem Weg zu Ihrer Traumhochzeit in Dänemark. Wir kümmern uns um die Formalitäten, damit Sie sich auf das Wesentliche konzentrieren können: Ihre Liebe zueinander. Lassen Sie uns gemeinsam diesen wundervollen Tag gestalten."
+        },
+        "documentsBlock":{
+          "documentBlockTitle": "Dokumenten für heiraten in Dänemark:",
+            "leftBlock":{
+              "title":"Als EU-Bürger",
+              "content":"<ul><li>Ausweis oder Reisepass: Bitte alle Seiten, auch leere Seiten.</li><li>Erweiterte Meldebescheinigung: Seit 01.01.2020 nicht mehr erforderlich.</li><li>Falls geschieden oder verwitwet innerhalb der EU, vollständiges Scheidungsurteil mit Rechtskraftvermerk, Sterbeurkunde des Partners und übersetzt auf Deutsch oder Englisch.</li></ul>"
+            },
+            "rightBlock":{
+              "title":"Als nicht EU-Bürger",
+              "content":"<ul><li>Gültiger Reisepass mit gültigem Schengen – Visum oder Aufenthaltstitel- Fiktionsbescheinigung.</li><li>Wenn in Deutschland -EU angemeldet – Meldebescheinigung — ab 01.01.2020 braucht man nicht mehr.</li><li>Alle Scheidungsurteile, Scheidungsurkunden und Sterbeurkunden, die außerhalb der EU ausgestellt wurden, müssen mit Apostille beglaubigt sein. Oder legalisiert bei der dänischen Botschaft, in dem Land, wo das Dokument ausgestellt wurde, und in Deutsch oder Englisch übersetzt werden.</li><li>Bitte Vollmacht und Eheerklärung Formular ausdrücken, beide unterschreiben und an uns zurück senden.</li><li><a href='/download-marriage-attorney' download>Herunterladen 'Ehe-Vollmacht'</a></li></ul>"
+            }
+        },   
+		"additionalQuestions": "<p><strong>Keine Bescheinigung über die Ehelichkeitsfähigkeit aus dem Heimatland? </br> </br> Keine Geburtsurkunde? </br> </br> Kein Anmeldebescheinigung? </strong></br> </br> Warum komplizieren, wenn es auch einfach geht? </br> Heiraten ohne Behördengänge und Papierkram. <strong><a href='tel:+49017684660664'>Rufen Sie uns an!</a></strong></p>"
+    },
+		"marriageLaw": {
+			"title": "Informationen zur Anerkennung der Ehe im Ausland",
+			"rule_1":{
+				"title":"Wirksamkeit der Ehe:",
+				"definition":"<li><p>Es gibt kein spezifisches Verfahren oder allein zuständige Behörden für die Anerkennung einer im Ausland geschlossenen Ehe für den deutschen Rechtsbereich.</p></li><li><p>Die Frage der Wirksamkeit einer im Ausland geschlossenen Ehe ist eine Vorfrage im Zusammenhang mit anderen Amtshandlungen und wird von der zuständigen Behörde entschieden.</p></li><li><p>Eine im Ausland geschlossene Ehe kann anerkannt werden, wenn die materiell-rechtlichen Voraussetzungen für die Eheschließung nach dem Heimatrecht beider Ehegatten erfüllt sind und die Form der Eheschließung gemäß dem Recht am Ort der Eheschließung oder dem Heimatrecht eingehalten wurde.</p></li>"
+			},
+			"rule_2":{
+				"title":"Steuerrechtliche Anerkennung nach der Heirat in Dänemark:",
+				"definition":"<li><p>Eine internationale dänische Heiratsurkunde, die mit einer Apostille versehen ist, wird in Deutschland rechtlich und steuerlich anerkannt.</p></li><li><p>Mit dieser Urkunde können Sie Ihren Familienstand ändern und andere steuerliche Angelegenheiten regeln.</p></li>"
+			},
+			"rule_3":{
+				"title":"Verpflichtende Deutschkenntnisse beim Ehegattennachzug:",
+				"definition":"<li><p>Ja , in Dänemark ist Seit dem 28. August 2007 müssen ausländische Ehepartner von Deutschen, die nach Deutschland ziehen möchten, einfache Deutschkenntnisse nachweisen.</p></li><li><p>Das Zertifikat Start Deutsch A1 ist erforderlich, um sich in Deutschland verständigen zu können und sich am gesellschaftlichen Leben zu beteiligen.</p></li><li><p>Ausnahmen gelten für Ehepartner anderer EU-Bürger ohne ständigen Wohnsitz im eigenen Land und für Familienzusammenführungen aus der Türkei, wo bilaterale Verträge gelten.. Wenn Sie keine mitbringen übernehmen wir dieses gerne kostenlos für Sie.</p></li>"
+			},
+			"rule_4":{
+				"title":"Gesetzesänderung vom 28.08.2007:",
+				"definition":"<li><p>Die Änderung sieht vor, dass visumpflichtige Ausländer, die beispielsweise mit einem Schengen-Visum zum Zweck der Heirat eines Deutschen nach Deutschland einreisen, unter bestimmten Voraussetzungen einen Antrag auf Erteilung einer Aufenthaltserlaubnis stellen können.</p></li>"
+			}
+		}, "informationRecognition": {
+			"title":"Informationen zur Anerkennung der Ehe im Ausland. Das Eherecht.",
+			"mainInformation": "<p>Als sehr informative Platform für Internationale Ehen empfehlen wir Webseite <a href='http://www.coupleseurope.eu/' target='_blank'>\"Paare in Europa\" in 27 Sprachen</a> die verständlich erklärt, Welches Recht ist unter verschiedenen Konstellationen anwendbar.</p> <p><a href='http://www.frag-einen-anwalt.de/Im-Ausland-geschlossene-Ehe-die-noch-nicht-in-DE-eingetragen-wurde__f30022.html' target='_blank'><strong>Im Ausland geschlossene Ehe, die noch nicht in DE eingetragen wurde</strong></a>- Ist das Paar nach deutschem Recht verheiratet, wenn die Trauung im Ausland durch einen deutschen oder ausländischen Standesbeamten erfolgte, aber das Paar die Eheschließung in DE danach nicht anerkennen ließ?</p> <p><em>- Ja. Gemäß </em><a href='http://bundesrecht.juris.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031900377' target='_blank'><em>Art. 11</em></a><em> Abs. 1 </em><a href='http://bundesrecht.juris.de/bgbeg/index.html' target='_blank'><em>EGBGB</em></a><em> ist es für die Wirksamkeit der Eheschließung im Ausland </em></p> <p><em>ausreichend, wenn die am Ort der Trauung geltenden Formvorschriften über die Eheschließung</em></p> <p><em> eingehalten werden, im Übrigen müssen die Verlobten die materiellen </em></p><p><em>Eheschließungsvoraussetzungen nach den §§ </em><a href='http://bundesrecht.juris.de/bgb/__1303.html' target='_blank'><em>1303</em></a><em> bis </em><a href='http://bundesrecht.juris.de/bgb/__1309.html' target='_blank'><em>1309</em></a><em> </em><a href='http://bundesrecht.juris.de/bgb/index.html' target='_blank'><em>BGB</em></a><em> - also insbesondere</em></p> <p><em> Ledigkeit, Mindestalter, kein unzulässiger Verwandtschaftsgrad - oder sonst nach den </em></p> <p><em>Vorschriften des jeweiligen Heimatrechts, erfüllen. Deutsche Staatsangehörige sind auch </em></p> <p><em>nicht verpflichtet, einen Antrag auf Anlegung eines Familienbuchs zu stellen oder ihren <br>Namen nach der Eheschließung zu ändern. Es ist daher möglich, dass jemand - obwohl dies</em></p> <p><em> nicht anhand der deutschen Personenstandsbücher feststellbar ist - dennoch wirksam </em></p> <p><em> verheiratet ist.</em><strong> <em>Eine Anerkennung durch die deutschen Behörden ist nicht notwendig, <br>es reicht die Anerkennung durch das Gesetz. </em></strong></p><p><br></p><p>Selbstverständlich werden auch homosexuelle Ehen aus Dänemark in Deutschland und u.a. in Belgien, Niederlanden, Spanien, Portugal, Schweden, Island, Frankreich, Schweiz, USA (in manchen Staaten) anerkannt.</p><p><strong><br><em>Zum Nachweis einer im Ausland geschlossenen Ehe dient die ausländische <br>Heiratsurkunde mit Legalisierung oder Apostille. </em></strong></p> <p><u>- Wie lange hat man nach der Eheschließung im Ausland Zeit, diese in DE anerkennen zu lassen?</u></p> <p><em>- Unbegrenzt, da ein offizieller Anerkennungsakt gar nicht vorgeschrieben ist.</em></p> <p><br></p> <p><u>- Ist eine Scheidung nötig, falls die Partner andere Partner ehelichen möchten - und wenn </u></p> <p><u>ja, nach welchem Recht?</u></p> <p><em>- Auch ohne förmliche Anerkennung der Eheschließung liegt eine wirksame Ehe vor. Wenn </em></p> <p><em>einer der Ehegatten erneut heiraten will, muss er sich in der Tat erst scheiden lassen, </em></p> <p><em>andernfalls liegt eine nach &sect; </em><a href='http://bundesrecht.juris.de/bgb/__1306.html' target='_blank'><em>1306</em></a><em> unzulässige Doppelehe vor. Die Scheidung ist gemäß </em></p> <p><a href='http://bundesrecht.juris.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032200377' target='_blank'><em>Art. 14</em></a><em> Abs. 1, </em><a href='http://bundesrecht.juris.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032500377' target='_blank'><em>Art. 17</em></a><em> Abs. 1 Satz 1 in der Regel nach dem Recht des Staates, dem beide </em></p><p><em>angehören, oder in dem sie ihren (letzten) gewöhnlichen Aufenthalt hatten, hilfsweise nach </em></p><p><em>dem Recht des Staates, mit dem sie sonst am engsten verbunden sind, zu vollziehen. </em></p>"
+		},
+		"achievements": {
+			"title": "Unsere Leistungen",
+			"item_1": {
+				"title": "Privater kauf:",
+				"text_1": "Jede Woche füllt Natalia Yakymenskyy einen Bus mit heiratswilligen Paaren und fährt von Deutschland nach Ærøskøbing, wo Bürgermeister Jørgen Otto Jørgensen im Rathaus bereitsteht, um die ehelichen Bande zu schmieden. Yakymenskyy besitzt ein Hochzeitsbüro, das umfassende Paketlösungen für Ausländer aus Deutschland und Osteuropa anbietet, die gerne die schwere Bürokratie in ihren Heimatländern umgehen möchten.",
+				"text_2": "In anderen Ländern ist es oft ein sehr mühsamer und langsamer Prozess, alle erforderlichen Papiere durch das System zu bekommen, wenn beispielsweise ein Deutscher eine Russin heiraten möchte. In Dänemark geht es schneller, und mit unserer direkten Zusammenarbeit mit der Gemeinde Ærø bieten wir an, alle Papierarbeiten für unsere Paare zu erledigen, erklärt Natalia Yakymenskyy.",
+				"imgAlt": "Ring-Symbol"
+			},
+			"item_2": {
+				"title": "Beliebte Ærø:",
+				"text_1": "Yakymenskyys Büro ist eines von fünf, die derzeit mit der Gemeinde Ærø zusammenarbeiten, und die Insel hat sich in diesem Jahr zu einem Magneten für Ausländer entwickelt, die Hochzeitspläne haben. Laut dem Bürgermeistersekretariat wurden im Rathaus bisher 220 Trauungen seit Januar durchgeführt, verglichen mit 110 Trauungen im gleichen Zeitraum des letzten Jahres. Von den ersten 220 Trauungen dieses Jahres sind nur acht Paare dänisch, 154 sind aus Deutschland, 50 aus Russland, während die restlichen Paare aus einer Reihe von Ländern, besonders aus Osteuropa, stammen.",
+				"text_2": "Der große Anstieg der durchgeführten Trauungen ist teilweise darauf zurückzuführen, dass wir einen zusätzlichen Mitarbeiter im Sekretariat eingestellt haben, sodass wir jetzt mehr Paare durchführen können. Aber es liegt auch daran, dass wir einfach immer mehr Anfragen erhalten, berichtet Bürgermeister Jørgen Otto Jørgensen, der oft an einem einzigen Tag 9-10 Trauungen durchführt.",
+				"text_3": "Ich denke, Ærø ist so beliebt geworden wegen der wunderschönen Umgebung und dem gesamten Erlebnis, das die Paare mit der Fährfahrt und den alten Gebäuden in Ærøskøbing haben. Diejenigen, die hier waren, erzählen davon, wenn sie nach Hause kommen, ihren Freunden und ihrer Familie, und auf diese Weise hat Ærø einen guten Ruf bekommen, glaubt Jørgen Otto Jørgensen.",
+				"text_4": "Diese Einschätzung teilt Natalia Yakymenskyy. Obwohl es nahe an der Grenze zu Deutschland liegt, ist es auf Ærø etwas romantischer und exotischer. Die Paare machen einen ganzen kleinen Hochzeitsausflug daraus, berichtet sie.",
+				"imgAlt": "Ring-Symbol"
+			}
+		}
+  }
+}

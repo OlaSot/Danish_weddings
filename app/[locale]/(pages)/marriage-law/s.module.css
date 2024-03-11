@@ -1,0 +1,157 @@
+.law_page {
+	position: relative;
+}
+
+.content {
+	padding-top: clamp(35px, 11vw, 100px);
+	padding-bottom: clamp(50px, 11vw, 150px);
+}
+
+.title {
+	position: relative;
+	z-index: 10;
+	max-width: 460px;
+}
+
+.line_1,
+.line_2,
+.line_3 {
+	position: absolute;
+	height: 40px;
+}
+
+.line_1 {
+	width: 35%;
+	right: 0;
+	top: 10%;
+	background-color: var(--additional-light-color);
+}
+
+.line_2 {
+	width: 20%;
+	left: 0;
+	top: 40%;
+	background-color: var(--content-bg-color);
+}
+
+.line_3 {
+	width: 26%;
+	bottom: clamp(10%, 86vw, 40%);
+	right: 0;
+	background-color: var(--additional-dark-color);
+}
+
+.rules_list {
+	display: flex;
+	flex-direction: column;
+}
+
+.rules_item {
+	padding-top: clamp(30px, 5vw, 80px);
+	padding-bottom: clamp(30px, 5vw, 80px);
+	width: 58%;
+}
+
+.rules_item:nth-child(even) {
+	margin-left: auto;
+	text-align: right;
+	border-top: 1px solid var(--footer-color);
+}
+
+.rules_item:nth-child(odd) {
+	border-top: 1px solid var(--footer-color);
+}
+
+.rules_item:first-child {
+	border: none;
+}
+
+.rules_item h2 {
+	font-family: var(--font-constantia);
+	font-weight: 700;
+	font-size: clamp(18px, 4vw, 24px);
+	line-height: 1;
+}
+
+.definition_list {
+	margin-top: clamp(12px, 4vw, 20px);
+}
+
+.definition_list li {
+	padding-left: 14px;
+	position: relative;
+	font-size: clamp(14px, 4vw, 20px);
+}
+
+
+
+.rules_item:nth-child(even) .definition_list p {
+	padding-left: 14px;
+	display: inline;
+	position: relative;
+}
+
+.rules_item:nth-child(even) .definition_list p::before {
+	content: "";
+	position: absolute;
+	top: clamp(8px, 4vw, 8px);
+	left: 0;
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	background-color: var(--footer-color);
+}
+
+@media (min-width: 792px) {
+	.rules_item:nth-child(odd) .definition_list li::before {
+		content: "";
+		position: absolute;
+		top: clamp(8px, 4vw, 8px);
+		left: 0;
+		width: 5px;
+		height: 5px;
+		border-radius: 50%;
+		background-color: var(--footer-color);
+	}
+}
+
+@media (max-width: 792px) {
+
+	.line_1,
+	.line_2,
+	.line_3 {
+		display: none;
+	}
+
+	.rules_item {
+		width: 100%;
+	}
+
+	.rules_item:nth-child(even) {
+		margin-left: 0;
+		text-align: inherit;
+	}
+
+	.rules_item:nth-child(even) .definition_list p {
+		padding-left: 0;
+		display: block;
+	}
+
+	.rules_item:nth-child(even) .definition_list p::before {
+		display: none;
+		position: static;
+	}
+
+	.definition_list li::before {
+		content: "";
+		position: absolute;
+		top: clamp(8px, 4vw, 8px);
+		left: 0;
+		width: 5px;
+		height: 5px;
+		border-radius: 50%;
+		background-color: var(--footer-color);
+	}
+
+
+}

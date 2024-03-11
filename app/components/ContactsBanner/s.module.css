@@ -1,0 +1,39 @@
+.contacts {
+	position: relative;
+	height: clamp(170px, 30vw, 400px);
+	overflow: hidden;
+}
+
+.img_wrapper {
+	width: 100%;
+	z-index: 0;
+
+}
+
+.contactImage {
+	position: absolute;
+	z-index: 0;
+	width: 100%;
+	object-fit: cover;
+	top: 40px;
+	transform: rotate(180deg) translateY(clamp(0%, 25vw, 38%));
+}
+
+.content_wrapper {
+	width: 100%;
+	height: clamp(170px, 30vw, 400px);
+	display: flex;
+	justify-content: flex-end;
+}
+
+.callus {
+	position: relative;
+	z-index: 10;
+	top: 85%;
+	right: clamp(-20px, 4vw, 50px);
+	font-family: var(--font-constantia);
+	font-weight: 700;
+	font-size: clamp(18px, 6vw, 64px);
+	transform: translate(0, -50%);
+	color: var(--font-contact-color);
+}

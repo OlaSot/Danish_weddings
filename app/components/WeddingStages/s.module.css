@@ -1,0 +1,142 @@
+.section_stages {
+	padding-top: clamp(40px, 6vw, 90px);
+	padding-bottom: clamp(40px, 6vw, 90px);
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.section_title,
+.callback {
+	font-family: var(--font-constantia);
+	font-size: clamp(20px, 4vw, 32px);
+	line-height: 1.2;
+	text-align: center;
+	color: var(--font-main-color);
+}
+
+.stages {
+	margin-top: clamp(40px, 6vw, 120px);
+	color: var(--font-secondary-color);
+}
+
+.stage {
+	padding: clamp(24px, 6vw, 72px) 0 clamp(28px, 6vw, 84px);
+	display: flex;
+	position: relative;
+}
+
+.stage:nth-child(odd) {
+	justify-content: flex-end;
+}
+
+.stage:nth-child(odd) {
+	justify-content: flex-end;
+}
+
+.stage:nth-child(even):after,
+.stage:nth-child(odd):after,
+.stage:first-child::before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	background-color: var(--additional-decor-color);
+}
+
+.stage:first-child::before {
+	top: 0;
+	left: -40%;
+}
+
+.stage:nth-child(odd):after {
+	bottom: 0;
+	right: -34%;
+}
+
+.stage:nth-child(even):after {
+	bottom: 0;
+	left: -40%;
+}
+
+.stage_wrapper {
+	width: 56%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: clamp(20px, 8vw, 150px);
+}
+
+.stage_inner {
+	width: 80%;
+}
+
+.stage_id {
+	font-family: var(--font-cinzel);
+	font-size: clamp(40px, 12vw, 120px);
+	color: var(--additional-light-color);
+}
+
+.stage_title {
+	font-size: clamp(20px, 4vw, 32px);
+}
+
+.stage_items {
+	margin-top: clamp(12px, 6vw, 30px);
+	list-style: disc;
+}
+
+.item {
+	font-size: clamp(12px, 4vw, 20px);
+}
+
+.callback {
+	margin: clamp(40px, 6vw, 90px) auto 0;
+
+}
+
+.callback span {
+	display: block;
+}
+
+@media (max-width: 1024px) {
+	.stage_wrapper {
+		width: 100%;
+	}
+}
+
+
+@media (max-width: 480px) {
+
+	.stage {
+		text-align: center;
+	}
+
+	.stage_wrapper {
+		justify-content: center;
+	}
+
+	.stage_id {
+		display: none;
+	}
+
+	.stage_items {
+		list-style: none;
+	}
+
+	.stage:first-child::before {
+		top: 0;
+		left: 0;
+	}
+
+	.stage:nth-child(even):after {
+		bottom: 0;
+		left: 0;
+	}
+
+	.stage:nth-child(odd):after {
+		bottom: 0;
+		right: 0;
+	}
+}

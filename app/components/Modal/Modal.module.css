@@ -1,0 +1,31 @@
+.popup {
+	display: none;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	z-index: 999;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+	background: var(--popup-color);
+}
+
+.popup.active {
+	display: flex;
+}
+
+
+.popup span {
+	display: block;
+	width: 90%;
+	height: 90%;
+	border: 10px solid white;
+}
+
+.popup_image {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}

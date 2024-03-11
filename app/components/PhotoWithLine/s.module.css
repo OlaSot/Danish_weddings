@@ -1,0 +1,39 @@
+.containerReversed {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+}
+
+.image {
+  width: 770px;
+  height: 230px;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.lineImage {
+  background-color: var(--content-bg-color);
+  height: 34px;
+  width: 80%;
+}
+
+.photoWithLineReversed {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.photoReversed {
+  transform: scaleX(-1);
+}
+
+.lineImageReversed {
+
+  margin-left: auto;
+}
+
+@media (max-width: 1024px) {
+  .imageContainer {
+    display: none;
+  }
+
+}

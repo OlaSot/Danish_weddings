@@ -1,0 +1,19 @@
+.documentsBlock{
+    background: var(--content-bg-color);
+}
+.list{
+    line-height: 2;
+}
+.list ul{
+    list-style-type: circle;
+}
+.list ul li a{
+    text-decoration: underline;
+}
+.additionalQuestionsBlock{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: clamp(40px, 10vw, 90px);
+    padding-bottom: clamp(20px, 6vw, 55px);
+}
